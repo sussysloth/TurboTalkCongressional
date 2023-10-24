@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/TurboTalkCongressional/static/css/main.9770b0e3.css",
-    "main.js": "/TurboTalkCongressional/static/js/main.fe8c618c.js",
+    "main.js": "/TurboTalkCongressional/static/js/main.e9f65d89.js",
     "static/media/turbotalk.png": "/TurboTalkCongressional/static/media/turbotalk.00ba5ce7b052232a308b.png",
     "static/media/dinner.png": "/TurboTalkCongressional/static/media/dinner.8f322c41886747b0f4be.png",
     "static/media/Sports.png": "/TurboTalkCongressional/static/media/Sports.0e7fc8ac00a32de09453.png",
@@ -95,10 +95,10 @@
     "static/media/day.png": "/TurboTalkCongressional/static/media/day.77f6383d0b5e9ea3c229.png",
     "index.html": "/TurboTalkCongressional/index.html",
     "main.9770b0e3.css.map": "/TurboTalkCongressional/static/css/main.9770b0e3.css.map",
-    "main.fe8c618c.js.map": "/TurboTalkCongressional/static/js/main.fe8c618c.js.map"
+    "main.e9f65d89.js.map": "/TurboTalkCongressional/static/js/main.e9f65d89.js.map"
   },
   "entrypoints": [
     "static/css/main.9770b0e3.css",
-    "static/js/main.fe8c618c.js"
+    "static/js/main.e9f65d89.js"
   ]
 }
